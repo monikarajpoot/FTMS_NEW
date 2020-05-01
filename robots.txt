@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /.idea/
+Disallow: /nbproject/
+Disallow: /themes/
+
